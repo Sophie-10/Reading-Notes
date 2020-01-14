@@ -35,5 +35,7 @@ UEFI 实现一般分为两部分：
 运行时服务（Runtime Services，RT）
 隐藏在BS之后的丰富的Protocol
 ```
+ ![image](images/1-1EFI系统组成.png)
+
 
 
